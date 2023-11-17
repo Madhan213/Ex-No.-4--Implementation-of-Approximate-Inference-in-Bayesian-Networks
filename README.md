@@ -1,4 +1,6 @@
-# Ex-04--Implementation of Approximate Inference in Bayesian Networks
+# EXPERIMENT-4
+# DATE:27/08/2023
+# Implementation of Approximate Inference Method Of Bayesian Networks
 ## Aim : 
    To construct a python program to implement approximate inference using Gibbs Sampling.
 
